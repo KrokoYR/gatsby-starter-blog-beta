@@ -1,0 +1,7 @@
+*.css
+*.svg
+/dist
+webpack.config.js
+build-utils
+/node_modules
+gatsby-node.js
